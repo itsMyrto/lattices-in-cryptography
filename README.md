@@ -6,5 +6,5 @@ I implemented the following algorithms:
 - Schnorr-Euchner Enumeration
 - Gauss Lagrange
 - Babai
-- Solving the knapasack problem
+- Solving the knapsack problem
 - Finding orthogonal lattices
